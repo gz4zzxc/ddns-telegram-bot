@@ -13,6 +13,9 @@
     "url": "https://github.com/wukibaka/ddns-telegram-bot/issues"
   },
   "homepage": "https://github.com/wukibaka/ddns-telegram-bot#readme",
+  "engines": {
+    "node": "22.x"
+  },
   "devDependencies": {
     "@vercel/node": "3.2.7"
   },
